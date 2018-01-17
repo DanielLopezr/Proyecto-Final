@@ -1,0 +1,28 @@
+#content{
+  background: #7FB3D5;
+  margin-top: 0px;
+}
+
+#header{
+margin-bottom: 0px;
+}
+
+body{
+  background-image: url("img/fondo.jpg");
+}
+
+.imagenes{
+  margin: 5px 0 5px 0;
+}
+
+.favoritos{
+  margin-top: 20px;
+}
+
+.imgarticulo{
+  margin: 3%;
+}
+
+#rollos{
+  margin-bottom: 4%;
+}

@@ -1,0 +1,22 @@
+body{
+  background-image:url(img/fondo.jpg);
+}
+
+.contenido{
+  background-color: #e0f7fa;
+  opacity: 0.95 ;
+  margin-top: 0px;
+}
+
+header{
+  margin: 0px !important;
+}
+
+.opacidad{
+  padding-top: 1% !important;
+  padding-bottom: 2% !important
+}
+
+.padof{
+  padding: 0 !important;
+}
